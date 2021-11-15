@@ -1,12 +1,21 @@
 # Olá, eu sou o Klinger Vidal 👋
+# Hi, I am Klinger Vidal 👋
+
+
 ## Iniciei minha carreira na área de TI em 2009.
+## I started my IT career in 2009.
 
 ### Um pouco mais sobre mim:
+### A bit about me:
 
 - 🔭 Eu atualmente estou trabalhando como Supervisor de Sistemas na [BySat](https://site.bysat.com.br/)
-- 📫 Contato: [klingervidal@gmail.com](mailto:klingervidal@gmail.com)
+- 🔭 Currently I work as Systems Supervisor at [BySat](https://site.bysat.com.br/)
+
+- 📫 Contato/Contact: [klingervidal@gmail.com](mailto:klingervidal@gmail.com)
 - 📫 Linkedin: https://www.linkedin.com/in/klinger-afonso-vidal-261a6b8a/
-- 😄 Interesses: Python, PHP, BI, Tecnologia em Geral, Requisito de Projetos de TI e Gerenciamento de Projetos de TI.
+
+- 😄 Interesses: Python, PHP, BI, Tecnologia em Geral, Requisitos de Projetos de TI e Gerenciamento de Projetos de TI.
+- Interests: Python, PHP, BI, General Technology, IT Project Requirements, and IT Project Management.
 
 ### Skills: 
 
