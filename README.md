@@ -15,7 +15,7 @@
 - 📫 Linkedin: https://www.linkedin.com/in/klinger-afonso-vidal-261a6b8a/
 
 - 😄 Interesses: Python, PHP, BI, Tecnologia em Geral, Requisitos de Projetos de TI e Gerenciamento de Projetos de TI.
-- Interests: Python, PHP, BI, General Technology, IT Project Requirements, and IT Project Management.
+- 😄 Interests: Python, PHP, BI, General Technology, IT Project Requirements, and IT Project Management.
 
 ### Skills: 
 
