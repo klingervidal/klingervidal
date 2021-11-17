@@ -6,7 +6,7 @@
 
 - 🔭 Currently I work as Systems Supervisor at [BySat](https://site.bysat.com.br/)
 - 📫 Contact: [klingervidal@gmail.com](mailto:klingervidal@gmail.com)
-- 📫 Linkedin: https://www.linkedin.com/in/klinger-afonso-vidal-261a6b8a/
+- 📫 Linkedin: https://www.linkedin.com/in/klinger-vidal-261a6b8a/
 - 😄 Interests: Python, PHP, BI, General Technology, IT Project Requirements, IT Project Management and English Language.
 
 
@@ -18,7 +18,7 @@
 
 - 🔭 Eu atualmente estou trabalhando como Supervisor de Sistemas na [BySat](https://site.bysat.com.br/)
 - 📫 Contato: [klingervidal@gmail.com](mailto:klingervidal@gmail.com)
-- 📫 Linkedin: https://www.linkedin.com/in/klinger-afonso-vidal-261a6b8a/
+- 📫 Linkedin: https://www.linkedin.com/in/klinger-vidal-261a6b8a/
 - 😄 Interesses: Python, PHP, BI, Tecnologia em Geral, Requisitos de Projetos de TI, Gerenciamento de Projetos de TI e Língua Inglesa.
 
 ### Skills: 
