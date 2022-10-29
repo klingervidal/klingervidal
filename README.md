@@ -16,7 +16,7 @@
 
 ### Um pouco mais sobre mim:
 
-- 🔭 Eu atualmente estou trabalhando como Supervisor de Sistemas na [BySat](https://site.bysat.com.br/)
+- 🔭 Eu atualmente estou trabalhando como Engenheiro de Software na [Cadence Design Systems](https://www.cadence.com/en_US/home.html)
 - 📫 Contato: [klingervidal@gmail.com](mailto:klingervidal@gmail.com)
 - 📫 Linkedin: https://www.linkedin.com/in/klinger-vidal-261a6b8a/
 - 😄 Interesses: Python, PHP, BI, Tecnologia em Geral, Requisitos de Projetos de TI, Gerenciamento de Projetos de TI e Língua Inglesa.
